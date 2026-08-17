@@ -1,3 +1,22 @@
+# Ritual Predict 🚀
+Bootcamp Level 2 – Done & Dusted!
+
+Hey everyone, Luna here.  
+Just wrapped up the second bootcamp (Aug 17, 2026).
+
+This session blew my mind a bit.  
+A market that wakes itself up, fetches real data, and settles — all on-chain. No keepers, no drama.
+
+### Loved these bits
+- Scheduler just doing its job
+- TEE-protected HTTP calls
+- Super clean refund when oracle fails
+- Simple claim formula
+
+Testnet is gone, but I went through every important file.  
+So ready for mainnet markets for real.
+
+gRitual forever
 # Ritual Predict
 
 A self-resolving binary prediction market on [Ritual Chain](https://docs.ritualfoundation.org).
